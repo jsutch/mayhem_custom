@@ -1,0 +1,42 @@
+# INI,END,DESCRIPTION 
+# (Freq range in MHz, min separation 240MHz)
+# (Description up to 20 char)
+# (fields comma delimiter)
+2320,2560,BL / WIFI 2.4GHz
+5160,5900,WIFI 5GHz
+260,500,315/433 MHz KEYFOBS
+144.360,145,APRS
+140,380,VHF MICS AND MARINE
+420,660,UHF MICS
+# common handheld radio freqs
+460,468,GMRS and FRS
+150,155,MURS
+26,28,CB Radio
+161,163,AIS frequencies
+# ham frequencies
+48,56,HF Freqs 6m
+10,55,HF Freqs 30m-6m
+1,10,HF Freqs 160m-30m 
+# this freezes up the app
+#.1,1 HF Freqs - khz range
+# cell phone
+698,746,SMH lower cellphone
+758, 799,SMH upper cellphone
+824,895,GSM850 cellphone
+876,960,GSM-R cellphone
+889,960,GSM900 cellphone
+887,961,EGSM cellphone
+1708,1879,DCS cellphone
+1848,1990,PCS cellphone
+
+# https://www.fcc.gov/wireless/bureau-divisions/mobility-division/paging
+35,36,USA PAGERS 35
+43,44,USA PAGERS 44
+152,159,USA PAGERS 152
+454,460,USA PAGERS 454
+929,932,USA PAGERS 930
+
+# I don't use these
+#10,7250,FULL RANGE
+#390,420,RADIOSONDES
+
